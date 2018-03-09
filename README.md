@@ -1,0 +1,2 @@
+# diary
+Wordpress diary plugin
